@@ -1,6 +1,4 @@
-```markdown
 # Bonjour
-Chat Application
 
 Bonjour is a real-time chat application built with React and Firebase. This app allows users to communicate instantly with friends, family, and colleagues.
 
@@ -131,4 +129,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [React](https://reactjs.org/)
 - [Firebase](https://firebase.google.com/)
 - [Styled-components](https://styled-components.com/)
-```
